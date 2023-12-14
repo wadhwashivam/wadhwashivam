@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 A student working on an exciting honors project.<br>👥 Seeking collaborations in the world of Ubuntu Touch OS development.<br>🤔 Needing assistance and discussions on Data Structures and Algorithms.<br>📚 Last lap of my Computer Science journey - in my final year!<br>💡 Passionate about all things tech, especially AI and Quantum Computing. Ask me anything!<br>👦 Pronouns: He/His<br>🔗 Connect with me on LinkedIn: @shivam wadhwa<br>📖🏋️🎸 Fun Fact: I'm an avid reader, a gym enthusiast, and I love strumming the guitar.
+🎓 A student working on an exciting honors project.<br>👥 Seeking collaborations in the world of Ubuntu Touch OS development.<br>🤔 Needing assistance and discussions on Data Structures and Algorithms.<br>📚 Last lap of my Computer Science journey - in my final year!<br>💡 Passionate about all things tech, especially AI and Quantum Computing. Ask me anything!<br>👦 Pronouns: He/His<br>🔗 Connect with me on LinkedIn: @wadhwashivam7877 <br>📖🏋️🎸 Fun Fact: I'm an avid reader, a gym enthusiast, and I love strumming the guitar.
 
 
 ## 🌐 Socials:
