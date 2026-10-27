@@ -1,17 +1,85 @@
-# 💫 About Me:
-🎓 B.Sc. Computer Science (Honors) graduate from UPEI.<br>💼 Actively job-seeking as a Full-Stack / Junior Web Developer — targeting the Waterloo–Toronto–London, Ontario corridor.<br>🛠️ Building full-stack apps with Node.js, Express, PostgreSQL, and React as part of The Odin Project curriculum.<br>🤔 Always up for a discussion on Data Structures and Algorithms.<br>💡 Passionate about all things tech, especially AI and Quantum Computing. Ask me anything!<br>👦 Pronouns: He/Him<br>🔗 Connect with me on LinkedIn: @wadhwashivam7877<br>📖🏋️🎸 Fun Fact: I'm an avid reader, a gym enthusiast, and I love strumming the guitar.
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ShivamWadhwa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wadhwashivam7877/) 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![EJS](https://img.shields.io/badge/EJS-B4CA65?style=flat&logo=ejs&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=flat&logo=Gradle&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=wadhwashivam&theme=flag-india&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=wadhwashivam&theme=flag-india&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=wadhwashivam&theme=flag-india&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+# Hi, I'm Shivam Wadhwa
+
+**Full-stack developer · Node.js, React, PostgreSQL · London, Ontario**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://shivam-wadhwa.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wadhwashivam7877/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shivamwadhwa7877@gmail.com)
+
+- 🎓 B.Sc. Computer Science (Honours), Mathematics minor, UPEI 2024. Undergraduate research award at Science Atlantic 2023.
+- 🛠️ I build and ship full-stack apps end to end: REST APIs, auth, databases, React frontends, Docker, AWS and CI.
+- 💼 Open to junior full-stack and software developer roles in Ontario.
+
+## Featured projects
+
+### [Agora](https://github.com/wadhwashivam/Agora-App)
+A text-only social platform for long-form opinions. No images or video, just writing.
+- JWT auth, follows, a paginated feed, posts and comments
+- Deployed on AWS: Docker containers on EC2, PostgreSQL on RDS
+- Backend test suite with GitHub Actions CI on every push
+
+`Node.js` `Express` `PostgreSQL` `Prisma` `React` `Material UI` `Docker` `AWS` `GitHub Actions`
+
+### [Messaging App](https://github.com/wadhwashivam/Messaging-App) · [Live demo](https://messaging-app-top-1.onrender.com)
+A messaging app where users sign up, customize their profile and message any other user.
+- REST API with Passport (local + JWT) auth
+- Polling for near-real-time message delivery, protected routes, session persistence
+
+`Node.js` `Express 5` `PostgreSQL` `Prisma` `React` `Material UI`
+
+<sub>Hosted on Render's free tier, so the first load can take about 30 seconds while it wakes up.</sub>
+
+### [AdsMigrator](https://github.com/wadhwashivam/AdsMigrator)
+A C# tool that migrates a legacy Advantage database to MySQL, a rebuild of a real migration I worked on.
+- Batched reads and transactional writes, with explicit type mapping for legacy data
+- Bad rows go to a rejects file with a reason instead of being silently dropped
+- A separate verification step checks row counts, money totals and orphaned rows
+
+`C#` `.NET` `MySQL` `SQLite` `Docker`
+
+### [Blog API](https://github.com/wadhwashivam/Blog-API)
+One REST API serving two separate frontends: a public reader site and an author admin site.
+- JWT-protected CRUD for posts and comments, drafts and comment moderation
+- Monorepo with three independently runnable apps
+
+`Node.js` `Express` `PostgreSQL` `Prisma` `Tailwind CSS` `Docker`
+
+### [Portfolio](https://github.com/wadhwashivam/Portfolio-Website) · [Live](https://shivam-wadhwa.vercel.app/)
+My personal site, built with Next.js and deployed on Vercel.
+
+`Next.js` `React` `Tailwind CSS` `Vercel`
+
+## Tech stack
+
+**Languages**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=databricks&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+**Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=flat&logo=mui&logoColor=white)
+
+**Backend and databases**
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-404D59?style=flat&logo=express&logoColor=61DAFB)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+**DevOps and tools**
+![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+
 ---
-[![](https://visitcount.itsvg.in/api?id=wadhwashivam&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+Outside of code: reading, the gym, and guitar.
